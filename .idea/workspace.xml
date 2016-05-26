@@ -32,19 +32,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProgramsController.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ProgramsController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/protected/controllers/ProgramsController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="27" selection-start="2002" selection-end="2002" vertical-scroll-proportion="-15.769231" vertical-offset="695" max-vertical-offset="3740">
+            <state line="65" column="27" selection-start="2002" selection-end="2002" vertical-scroll-proportion="0.70689654" vertical-offset="695" max-vertical-offset="3740">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SiteController.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SiteController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="41" selection-start="3056" selection-end="3056" vertical-scroll-proportion="0.77065766" vertical-offset="1311" max-vertical-offset="1904">
+            <state line="104" column="41" selection-start="3056" selection-end="3056" vertical-scroll-proportion="-17.576923" vertical-offset="1311" max-vertical-offset="1904">
               <folding />
             </state>
           </provider>
@@ -443,16 +443,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/ProgramsController.php">
+    <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="27" selection-start="2002" selection-end="2002" vertical-scroll-proportion="-15.769231" vertical-offset="695" max-vertical-offset="3740">
+        <state line="104" column="41" selection-start="3056" selection-end="3056" vertical-scroll-proportion="-17.576923" vertical-offset="1311" max-vertical-offset="1904">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
+    <entry file="file://$PROJECT_DIR$/protected/controllers/ProgramsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="41" selection-start="3056" selection-end="3056" vertical-scroll-proportion="0.77065766" vertical-offset="1311" max-vertical-offset="1904">
+        <state line="65" column="27" selection-start="2002" selection-end="2002" vertical-scroll-proportion="0.70689654" vertical-offset="695" max-vertical-offset="3740">
           <folding />
         </state>
       </provider>
